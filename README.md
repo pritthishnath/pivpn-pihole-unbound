@@ -1,4 +1,4 @@
-This is a forever free online VPN setup with added features like network-level adblocking through PiHole and DNS resolving through Unbound.
+This is a free online VPN setup with added features like network-level adblocking through PiHole and DNS resolving through Unbound.
 
 Received guidance from [here](https://gist.github.com/HarvsG/008700c8d187b072cca335b9a85ad34d#file-docker-compose-yml)
 
