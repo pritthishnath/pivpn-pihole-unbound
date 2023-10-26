@@ -7,9 +7,10 @@ Received guidance from [here](https://gist.github.com/HarvsG/008700c8d187b072cca
 - A Linux VPS with public IP. Also, in this setup VPN location depends on the location of the VPS.
 - Docker installed in the VPS.
 
-#### Basic concepts
+#### Basic concept
 
 This is the basic concept of the setup.
+
 ![ss](concept.png)
 
 ## PiVPN setup
